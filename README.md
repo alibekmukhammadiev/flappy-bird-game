@@ -26,9 +26,6 @@ Welcome to Flappy Bird Game!. This project was born out of my passion for game d
 
 - Please feel free to access my hosted game at [**Flappy Bird Game**](https://flapping-bird-game.netlify.app/) 🔗 to view my work and learn more about my skills and experience.
 
-## Demo
-![GIF](demo.gif)
-
 ## Contact
 
 If you have any questions or comments, feel free to contact me at alibek.mukhammadiev@gmail.com
